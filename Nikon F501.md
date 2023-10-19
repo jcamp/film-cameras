@@ -1,4 +1,4 @@
-#video #camera-review
+#f-501 #nikon
 
 Information:
 https://en.wikipedia.org/wiki/Nikon_F-501
@@ -6,6 +6,8 @@ https://en.wikipedia.org/wiki/Nikon_F-501
 See also:  [Nikon F-401](https://en.wikipedia.org/wiki/Nikon_F-401 "Nikon F-401"), [Nikon F-601](https://en.wikipedia.org/wiki/Nikon_F-601 "Nikon F-601"), and [Nikon F-801](https://en.wikipedia.org/wiki/Nikon_F-801 "Nikon F-801") / [F-801s](https://en.wikipedia.org/wiki/Nikon_F-801s "Nikon F-801s")
 
 ![[nikon f-501 camera.jpg]]
+
+Facts:
 
 * Auto focus capability (1st autofocus camera from Nikon)
 * Also known as the N2020 in North America
